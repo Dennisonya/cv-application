@@ -1,5 +1,5 @@
 # CV Application
-This project was a fun build and helped deepen my knowledge of useState and props in React. I also learned new concepts like the purpose of keys and other hooks such as the useRef hook.
+This was an introductory React project for The Odin Project's JavaScript curriculum.
 
 # Preview
 Check out the live preview of the application here https://dennisonya.github.io/cv-application/
