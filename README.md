@@ -1,8 +1,32 @@
-# React + Vite
+# CV Application
+This project was a fun build and helped deepen my knowledge of useState and props in React. I also learned new concepts like the purpose of keys and other hooks such as the useRef hook.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Preview
+Check out the live preview of the application here https://dennisonya.github.io/cv-application/
 
-Currently, two official plugins are available:
+# Project Overview
+This CV application allows users to create and print a CV by filling out personal information, education details, and work experience. The form inputs are managed using React's state management and hooks, ensuring a smooth and interactive user experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Key Features
+Personal Information: Collects and displays user's personal details.
+Education Details: Allows users to add and display their educational background.
+Work Experience: Users can add multiple work experiences, which are dynamically managed.
+Print Functionality: Users can print the CV using a dedicated print button, which utilizes the useRef and useReactToPrint hooks.
+Learning Outcomes
+This project helped me to:
+
+Deepen my understanding of useState and props in React.
+Learn the importance of keys in rendering lists of elements.
+Gain experience with the useRef hook for managing component references.
+Implement printing functionality in a React application using the react-to-print library.
+Code Review Request
+I would appreciate any feedback on improving my code. If you have suggestions for correcting bad practices or optimizing the code, please share them. Here are some areas where I am specifically looking for advice:
+
+State Management: Best practices for managing and updating state.
+Component Structure: Suggestions for organizing and structuring React components.
+Code Optimization: Tips for optimizing React code for performance.
+Best Practices: General React best practices and coding standards.
+
+# Contributing
+If you would like to contribute to this project, please fork the repository and submit a pull request with your improvements. All contributions are welcome!
+
